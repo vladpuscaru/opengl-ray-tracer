@@ -1,0 +1,3 @@
+[submodule "opengl-template"]
+	path = opengl-template
+	url = git@github.com:vladpuscaru/opengl-template.git
